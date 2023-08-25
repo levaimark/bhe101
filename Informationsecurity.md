@@ -1,8 +1,10 @@
 Information Security - ICI002AS2AE-3003 , homework 0 and 1
 by, Márk Lévai (bhe101)
+![alt text](https://github.com/levaimark/bhe101/blob/main/debian1.png)
+![alt text](https://github.com/levaimark/bhe101/blob/main/debian2.png)
+![alt text](https://github.com/levaimark/bhe101/blob/main/debian3.png)
+![alt text](https://github.com/levaimark/bhe101/blob/main/debian4.png)
 
- 
-  
 Here are some of my screenshots about me making my debian according tot he link: https://terokarvinen.com/2021/install-debian-on-virtualbox/#first-login 
 
 For homework 1.
