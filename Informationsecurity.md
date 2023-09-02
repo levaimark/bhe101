@@ -72,3 +72,16 @@ Summarize A03:2021 – Injection:
 -Limiting SQL controls within queries can prevent mass data disclosure.
 
 -Attack scenarios involve attackers manipulating untrusted data to execute malicious SQL queries, potentially leading to data leaks or other malicious actions.
+
+Installing Webgoat:
+
+I did the installization, even though I wasn't sure where to find this: b) F12. Solve Webgoat 8: General: Developer tools, so i didn't did that part of the homework yet, but I will do it after monday's class, when I understand the assignment.
+
+d) Sequel. Solve SQLZoo:
+
+0 SELECT basics
+
+2 SELECT from World, from first two subtasks.
+
+I did all of the 0 SELECT basics and most of the 2 SELECT from world parts, I tried my best on this one.
+
