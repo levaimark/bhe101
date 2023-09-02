@@ -23,6 +23,19 @@ Kill Chain:
 
 -The text promotes intelligence-driven cybersecurity and proactive, adaptive defense strategies.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Information Security - ICI002AS2AE-3003 , homework 2 
 by, Márk Lévai (bhe101)
 
