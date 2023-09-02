@@ -1,0 +1,65 @@
+Information Security - ICI002AS2AE-3003 , homework 2 
+by, Márk Lévai (bhe101)
+
+Summarize A05:2021 – Security Misconfiguration:
+
+-In the latest edition, 90% of applications were tested for misconfigurations, with an average incidence rate of 4%.
+
+-Over 208k instances of Common Weakness Enumeration (CWE) in this category.
+
+-Notable CWEs include CWE-16 Configuration and CWE-611 Improper Restriction of XML External Entity Reference.
+
+-Vulnerabilities arise from security hardening gaps, improper cloud service permissions, enabling unnecessary features, default account usage, revealing error messages, insecure settings in frameworks, outdated software, and more.
+
+-Preventive measures include repeatable hardening processes, minimal platform installation, regular configuration reviews and updates, segmented architecture, 
+security header implementation, and automated configuration verification.
+
+-Example attack scenarios involve exploiting default accounts, directory listing vulnerabilities, detailed error messages, and insecure cloud sharing permissions.
+
+Summarize A06:2021 – Vulnerable and Outdated Components:
+
+-Vulnerable Components category ranked #2 in the Top 10 community survey and also made the Top 10 via data.
+
+-No Common Vulnerability and Exposures (CVEs) mapped to the included CWEs; default exploits/impact weight of 5.0 is used.
+
+-Notable CWEs include CWE-1104: Use of Unmaintained Third-Party Components.
+
+-Vulnerability occurs when versions are unknown, software is outdated, and regular vulnerability scans and updates are lacking.
+
+-Patch management process should remove unused dependencies, continuously monitor component versions and vulnerabilities, and obtain components from secure sources.
+
+-Organizations must monitor and update components throughout the application's lifetime.
+
+-Example attack scenarios involve exploits like CVE-2017-5638 (Struts 2 remote code execution) and the importance of patching IoT devices, with tools like Shodan used to find unpatched systems.
+
+Summarize A03:2021 – Injection:
+
+-Injection vulnerabilities rank third, with 94% of applications tested and an average incidence rate of 3%.
+
+-Notable CWEs include CWE-79: Cross-site Scripting, CWE-89: SQL Injection, and CWE-73: External Control of File Name or Path.
+
+-Vulnerabilities occur when user-supplied data is not properly validated, filtered, or sanitized.
+
+-Common injection types include SQL, NoSQL, OS command, ORM, LDAP, and Expression Language (EL) injections.
+
+-Prevention involves using safe APIs, parameterized interfaces, or ORM tools, along with server-side input validation and escaping special characters.
+
+-Limiting SQL controls within queries can prevent mass data disclosure.
+
+-Attack scenarios involve attackers manipulating untrusted data to execute malicious SQL queries, potentially leading to data leaks or other malicious actions.
+
+Installing Webgoat:
+
+I did the installization, even though I wasn't sure where to find this: b) F12. Solve Webgoat 8: General: Developer tools, so i didn't did that part of the homework yet, but I will do it after monday's class, when I understand the assignment.
+
+d) Sequel. Solve SQLZoo:
+
+0 SELECT basics
+
+2 SELECT from World, from first two subtasks.
+
+I did all of the 0 SELECT basics and most of the 2 SELECT from world parts, I tried my best on this one.
+
+e) Johnny tables. Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+
+I had some problems with this assignment as well, but I will sure try to do it with a little help after class. I tried and searched on google about the solutions as well.
