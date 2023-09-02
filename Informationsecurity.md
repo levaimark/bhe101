@@ -1,4 +1,4 @@
-Information Security - ICI002AS2AE-3003 , homework 0 and 1
+Information Security - ICI002AS2AE-3003 , homework 0, 1, 2.
 by, Márk Lévai (bhe101)
 ![alt text](https://github.com/levaimark/bhe101/blob/main/debian1.png)
 ![alt text](https://github.com/levaimark/bhe101/blob/main/debian2.png)
