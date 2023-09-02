@@ -18,3 +18,7 @@ Kill Chain:
 -Practical guidance is provided for aligning defensive capabilities with each phase of the Kill Chain.
 -The concept of resiliency in defense is emphasized, where continuous adaptation increases the cost for adversaries.
 -The text promotes intelligence-driven cybersecurity and proactive, adaptive defense strategies.
+
+Information Security - ICI002AS2AE-3003 , homework 2 
+by, Márk Lévai (bhe101)
+
