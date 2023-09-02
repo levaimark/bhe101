@@ -85,3 +85,6 @@ d) Sequel. Solve SQLZoo:
 
 I did all of the 0 SELECT basics and most of the 2 SELECT from world parts, I tried my best on this one.
 
+e) Johnny tables. Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+
+I had some problems with this assignment as well, but I will sure try to do it with a little help after class. I tried and searched on google about the solutions as well.
