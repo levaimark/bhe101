@@ -26,7 +26,7 @@ Kill Chain:
 Information Security - ICI002AS2AE-3003 , homework 2 
 by, Márk Lévai (bhe101)
 
-summarize A05:2021 – Security Misconfiguration:
+Summarize A05:2021 – Security Misconfiguration:
 
 -In the latest edition, 90% of applications were tested for misconfigurations, with an average incidence rate of 4%.
 
@@ -41,7 +41,7 @@ security header implementation, and automated configuration verification.
 
 -Example attack scenarios involve exploiting default accounts, directory listing vulnerabilities, detailed error messages, and insecure cloud sharing permissions.
 
-summarize A06:2021 – Vulnerable and Outdated Components:
+Summarize A06:2021 – Vulnerable and Outdated Components:
 
 -Vulnerable Components category ranked #2 in the Top 10 community survey and also made the Top 10 via data.
 
@@ -57,7 +57,7 @@ summarize A06:2021 – Vulnerable and Outdated Components:
 
 -Example attack scenarios involve exploits like CVE-2017-5638 (Struts 2 remote code execution) and the importance of patching IoT devices, with tools like Shodan used to find unpatched systems.
 
-summarize A03:2021 – Injection:
+Summarize A03:2021 – Injection:
 
 -Injection vulnerabilities rank third, with 94% of applications tested and an average incidence rate of 3%.
 
