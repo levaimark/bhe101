@@ -10,3 +10,11 @@ Here are some of my screenshots about me making my debian according tot he link:
 For homework 1.
 
 I chose https://darknetdiaries.com/transcript/45/ this podcast for homework 1. As I couldn’t appear on the first day of school on your class I had a hard time doing all of these and to recognise what is the assignment really. The podcast was very interesting, and I am pretty sure, that I will be hearing from this podcast crew, due to my interests. It was good to listen to people doing black or white hat stuff on the internet when it comes to hacking. It was also a bit weird that most of these guys in the podcast started their career early in their teenage years. When it came closer to the end of the podcast the things, they were talking about suddenly became more and more interesting, because they were talking about how illegal it became and some of them how got into trouble, like get arrested. This kind of adrenaline rush these guys have experienced and talked out here is a great thing to share with others.
+
+Kill Chain:
+
+-The text explains the Intrusion Kill Chain, a systematic process used to understand and counter cyber threats.
+-It breaks down the stages of a cyber intrusion, from reconnaissance to actions on objectives.
+-Practical guidance is provided for aligning defensive capabilities with each phase of the Kill Chain.
+-The concept of resiliency in defense is emphasized, where continuous adaptation increases the cost for adversaries.
+-The text promotes intelligence-driven cybersecurity and proactive, adaptive defense strategies.
