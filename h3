@@ -1,0 +1,13 @@
+- Threat modeling is a structured approach to identify and prioritize potential threats to a system and determine mitigations.
+
+- It's important for developers, designers, and architects to include threat modeling in software development.
+
+- Key terms: threat agents, impact, likelihood, controls, preventions, mitigations, data flow diagrams, trust boundaries.
+
+- Process includes defining business objectives, understanding design, creating information flow diagrams, and classifying data.
+
+- Threat agents are identified, attack vectors are drawn, and risks are assessed using methodologies like DREAD and PASTA.
+
+- Risks are ranked, and mitigation plans are developed in collaboration with risk owners and stakeholders.
+
+- Controls are chosen to mitigate risks, tested, and periodically re-evaluated.
