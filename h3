@@ -11,3 +11,74 @@
 - Risks are ranked, and mitigation plans are developed in collaboration with risk owners and stakeholders.
 
 - Controls are chosen to mitigate risks, tested, and periodically re-evaluated.
+
+a,
+
+- Strong password
+
+- Multi-Factor Authentication
+
+- Software updates
+
+- Firewall
+
+- Antivirus
+
+- Backup Data
+
+- Phising Awareness
+
+- Limited Permissions
+
+- Secure Wi-Fi
+
+- Data Encrytion
+
+- Secure Browsing
+
+b,
+
+Imaginary Company: eSportGuard
+
+eSportGuard is an imaginary esports organization specializing in hosting competitive esports tournaments and providing online gaming services. The company's mission is to offer a secure and enjoyable esports experience for gamers while maintaining the integrity of the competitions.
+
+1. What are we working on?
+
+Assets:
+
+- Gaming Servers: The core infrastructure hosting gaming competitions.
+- User Accounts: Player profiles, personal information, and in-game items.
+- Tournament Data: Schedules, brackets, and results of esports tournaments.
+- Financial Data: Payment information for tournament fees and in-game purchases.
+
+- Prioritization of Key Assets:
+
+- Gaming Servers: Critical for hosting tournaments and providing gameplay.
+- User Accounts: Vital for player engagement and personalized experiences.
+- Tournament Data: Important for event management.
+- Financial Data: Valuable but less critical than gameplay and user data.
+- Security is essential to ensure fair and secure esports competitions.
+- A data breach or cheating scandal can severely damage the company's reputation.
+
+2. Threats to User Accounts:
+
+Risk: Data Breach
+
+-Attack Vector: Unauthorized access to user account databases.
+-Impact: Exposure of player data, privacy violations.
+-Mitigation: Encrypt user data, implement strict access controls, regularly audit the database, and provide user education on secure account practices.
+-Risk: Phishing
+
+3. Threats to Tournament Data:
+
+- Risk: Unauthorized Access
+- Attack Vector: Insiders or external actors abusing their privileges.
+- Impact: Tampering with tournament data, unfair results.
+- Mitigation: Enforce strict access controls, monitor user activities, and conduct regular audits of tournament data.
+
+4. Threats to Financial Data:
+
+- Risk: Payment Fraud
+- Attack Vector: Fraudulent transactions and chargebacks.
+- Impact: Financial losses, disputes with payment processors.
+- Mitigation: Implement fraud detection mechanisms, conduct financial transaction audits, and work with secure payment processors.
