@@ -1,0 +1,25 @@
+x)
+
+Schneier 2015, Chapter 2.3: "One-Way Functions"
+In this section of "Applied Cryptography," Bruce Schneier discusses one-way functions, which are mathematical functions that are easy to compute in one direction but computationally infeasible to reverse.
+He emphasizes their importance in encryption and security protocols, such as public-key cryptography, where the difficulty of factoring large numbers is used as a basis for encryption.
+Schneier also mentions the mathematical properties that make one-way functions useful in cryptography.
+
+Schneier 2015, Chapter 2.4: "One-Way Hash Functions"
+In this section, Schneier introduces one-way hash functions, which are used to map arbitrary data to a fixed-size hash value.
+He discusses their applications in ensuring data integrity and security, such as in digital signatures and password storage.
+Schneier highlights the properties of good hash functions, including collision resistance and preimage resistance, and their role in protecting against data tampering.
+
+Särökaari 2018: "Phishing through Email" (Video, 33 min)
+This video discusses phishing attacks conducted through email, a common and deceptive method used by cybercriminals to trick individuals into revealing sensitive information.
+The video likely covers tactics employed by phishers, common red flags to identify phishing emails, and ways to protect oneself from falling victim to phishing scams.
+
+c) the name of my phising email would be gmailservice@gmailservice.com
+
+Dear Gmail User,
+
+This email is meant to inform you that your Gmail account password will expire in 48 hours.
+Please follow the link below to update your password gamil.com/password/new (this would be an email I would have made)
+
+Thank you,
+Gmail Team
